@@ -1,4 +1,4 @@
-# 📚 Book Shop Website
+# 📚 E-Library
 
 A beginner-friendly **responsive online bookstore website** built with **HTML, CSS, and Vanilla JavaScript**.
 
@@ -38,4 +38,5 @@ This project demonstrates how to create a clean and fully responsive book-sellin
 | Swiper.js  | Sliders & carousels |
 
 ---
+
 
